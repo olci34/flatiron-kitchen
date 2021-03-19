@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'pry'
 gem 'turbolinks'
 gem 'sprockets', '3.7.2'
 gem 'rails', '5.0.7.1'
